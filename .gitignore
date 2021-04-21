@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/_local_router_stuff
 /.pnp
 .pnp.js
 
