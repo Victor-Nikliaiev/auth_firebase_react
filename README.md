@@ -7,3 +7,7 @@ The important thing is that it's possible to change firebase to any server you w
 Code was implemented according to [this](https://www.youtube.com/watch?v=PKwu15ldZ7k) video source.
 
 Let's make the world a bit better! :D
+
+> ## Live version
+
+You can try this app right [here](http://auth-firebase-react-arhis.vercel.app/)
